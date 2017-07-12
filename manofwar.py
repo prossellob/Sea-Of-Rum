@@ -1,5 +1,6 @@
 import random,sys,time,os
 global main
+
 class barco:
     def __init__(self,nivel,nombre,capitan,armas,tripulacion,dinero):
         self.nivel = nivel
